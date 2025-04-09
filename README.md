@@ -7,3 +7,13 @@ ollama pull llama3
 
 #all models
 https://ollama.com/search
+_______________________________________
+
+<img width="1715" alt="image" src="https://github.com/user-attachments/assets/9c3dd0cc-880a-4408-a731-d19dfca54871" />
+
+steps to run locally llmmodel and use in react
+1) clone the code
+2) download the ollama models from above links and check in terminal 
+3) go to k8s-ai directory
+4) npm install
+5) npm run dev
