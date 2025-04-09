@@ -6,7 +6,7 @@ interface Message {
   role: 'assistant' | 'user';
 }
 
-type Model = 'llama3.1' | 'gemma3' | 'llama3';
+type Model = 'llama3.1' | 'gemma3' | 'deepseek-r1:70b' | 'llama3';
 
 function App() {
   const [messages, setMessages] = useState<Message[]>([]);
