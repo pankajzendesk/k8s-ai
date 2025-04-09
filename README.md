@@ -17,3 +17,7 @@ steps to run locally llmmodel and use in react
 3) go to k8s-ai directory
 4) npm install
 5) npm run dev
+
+
+# if you have another model downloaded then update this 
+https://github.com/pankajzendesk/k8s-ai/blob/f913abb9e781af417dc01f20a4a91071c9e17599/src/App.tsx#L9
